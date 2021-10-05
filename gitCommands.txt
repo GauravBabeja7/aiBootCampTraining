@@ -1,0 +1,13 @@
+git init
+git clone <link of repo>
+git status
+git add .
+git commit -m "give a comment"
+git push -u origin --all
+git pull <link of repo>
+git remote
+git tag v1.0
+git tag -a v1.2
+	- it will open an editor, there you can give any comments with this version
+git tag - to list the tags
+git show v1.0

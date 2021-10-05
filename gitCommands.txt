@@ -11,3 +11,5 @@ git tag -a v1.2
 	- it will open an editor, there you can give any comments with this version
 git tag - to list the tags
 git show v1.0
+git push origin v1.0
+git fork <link of repo>
